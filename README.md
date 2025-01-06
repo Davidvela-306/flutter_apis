@@ -42,8 +42,13 @@ flutter build appbundle
 
 ### 📌 Bebido a que se debe pagar $25,00 para crear una cuenta en google play, solo se indica el proceso seguido para publicar la app
 
+![App Screenshot](https://github.com/Davidvela-306/flutter_apis/blob/main/assets/procesToCreateAccount.png?raw=true)
+
+![App Screenshot](https://github.com/Davidvela-306/flutter_apis/blob/main/assets/payment.png?raw=true)
+
+
 ## Ejemplo de la App:
 
-![App Screenshot](https://bettilina.gitbook.io/~gitbook/image?url=https%3A%2F%2F3428358580-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjstoCN54AOxZEgZrW61H%252Fuploads%252FxoaR7QoLsTkUzFWwolgb%252Fimage.png%3Falt%3Dmedia%26token%3Dfd4ee4a5-e914-4659-8167-9e397564ef66&width=768&dpr=4&quality=100&sign=b54b605d&sv=2)
+![App Screenshot](https://github.com/Davidvela-306/flutter_apis/blob/main/assets/pokeApi.png?raw=true)
 
-![App Screenshot](https://bettilina.gitbook.io/~gitbook/image?url=https%3A%2F%2F3428358580-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FjstoCN54AOxZEgZrW61H%252Fuploads%252FxoaR7QoLsTkUzFWwolgb%252Fimage.png%3Falt%3Dmedia%26token%3Dfd4ee4a5-e914-4659-8167-9e397564ef66&width=768&dpr=4&quality=100&sign=b54b605d&sv=2)
+![App Screenshot](https://github.com/Davidvela-306/flutter_apis/blob/main/assets/phoneNumber.png?raw=true)
